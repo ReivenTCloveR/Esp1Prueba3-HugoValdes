@@ -1,0 +1,12 @@
+body {
+    background-color: #a6cbed;
+  }
+  .bordered-container {
+    border-left: 2px solid yellow;
+    border-right: 2px solid yellow;
+    padding: 20px;
+  }
+  
+  h1{
+    color: #A5AE45;
+  }
